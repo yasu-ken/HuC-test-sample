@@ -31,6 +31,10 @@ bmp2PCE.exe
 https://github.com/yasu-ken/bmp2PCE
   --->  c:\Huc\bin\
 
+HuC_comment_cut.exe
+https://github.com/yasu-ken/HuC_comment_cutter
+  --->  c:\Huc\bin\
+
 -----------------------------------------
 Compile example( Windows )
 
